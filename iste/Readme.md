@@ -12,7 +12,18 @@ pip install pillow
 ```
 
 ## Procedure
-Go to this [Reference]("https://youtu.be/Arrni3wgb0I") and follow it.
+
+
+I successfully created a Python script to automate the generation of workshop certificates for ISTE participants. This project aimed to streamline the tedious and time-consuming manual certificate generation process.
+
+Workflow and functionality:
+By leveraging Python programming, the script takes a list of workshop participants as input. It then utilizes this data to dynamically generate customized certificates for each individual. Additionally, the script incorporates a unique serial code generation mechanism to ensure the authenticity and individuality of each certificate.
+
+Relevance of the project:
+The project aligns with the needs of ISTE and other organizations conducting workshops. It simplifies the administrative workload by automating the certificate generation process, freeing up valuable time and resources.
+
+Technical skills utilized:
+Throughout the development of this project, I applied my expertise in Python programming. I employed fundamental concepts such as file handling, data manipulation, and string formatting. Furthermore, I demonstrated proficiency in generating unique serial codes, ensuring the security and uniqueness of each certificate.
 
 ## Template
 
